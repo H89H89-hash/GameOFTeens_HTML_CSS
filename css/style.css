@@ -137,3 +137,8 @@ ul {
 .Sources {
   color: var(--white-);
 }
+
+.contacts-a {
+  font-size: 14px;
+  color: white;
+}
